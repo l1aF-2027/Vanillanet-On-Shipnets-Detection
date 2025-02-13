@@ -30,7 +30,7 @@ VanillaNet is a lightweight convolutional neural network designed for efficiency
    - **Evaluation Metrics**: Accuracy and F1-score are used to assess performance.
 
 ## Results and Future Work
-After training the VanillaNet model on the dataset, we evaluate its performance using accuracy and F1-score. Further improvements can include:
+After training the VanillaNet, ResNet50 and MobileNet model on the same dataset, we evaluate its performance using accuracy and F1-score (all can see in `Slide and report/VanillaNet_BaoCao.pdf`). Further improvements can include:
 - **Fine-tuning hyperparameters** such as learning rate and batch size.
 - **Experimenting with different VanillaNet variants** to optimize for ship detection.
 - **Applying post-processing techniques** to refine predictions.
