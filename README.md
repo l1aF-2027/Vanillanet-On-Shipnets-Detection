@@ -1,5 +1,8 @@
 # Applying VanillaNet to the Ships in Satellite Imagery Dataset
 
+![image](https://github.com/user-attachments/assets/e135666b-fbc6-43df-b0fd-0e9dc21a89a9)
+
+
 ## Introduction
 This document outlines the application of **VanillaNet** to the [Ships in Satellite Imagery](https://www.kaggle.com/datasets/rhammell/ships-in-satellite-imagery) dataset available on Kaggle. The implementation is based on the **VanillaNet** model architecture from Huawei Noah’s research team, as described in their [official repository](https://github.com/huawei-noah/VanillaNet?tab=readme-ov-file) and the corresponding research paper: [VanillaNet: the Power of Minimalism in Deep Learning](https://arxiv.org/abs/2305.12972).
 
